@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75a53a137ce1d48c2b554785df21f38e, type: 3}
+  m_Name: Health Potion-Small
+  m_EditorClassIdentifier: 
+  itemType: 1
+  consumableName: Health_Potion_Large
+  icon: {fileID: 21300000, guid: b9bcd169e375f40e6b05cc30c0cd08f5, type: 3}
+  description: 
+  flatRestoreHP: 0
+  flatRestoreMP: 0
+  percentRestoreHP: 80
+  percentRestoreMP: 0
+  buffStrength: 0
+  duration: 0
+  stackable: 1
+  consumableType: 0

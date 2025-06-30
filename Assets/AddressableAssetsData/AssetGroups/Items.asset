@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Items
+  m_EditorClassIdentifier: 
+  m_GroupName: Items
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5f14e5eaf740a44fb88d480e4f8cd954
+  m_SerializeEntries:
+  - m_GUID: c9b0b5dca6ae445e5827be9dc678eaec
+    m_Address: Assets/MyAssets/Game/ItemDrop.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0c7f550d9060c40a3b6ced1a0bb73618, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0115ac77e3ad548a3b21a2e07f8a15f4, type: 2}
+    - {fileID: 11400000, guid: 1a90eaf3985334c17b83e4c057ee32bb, type: 2}
